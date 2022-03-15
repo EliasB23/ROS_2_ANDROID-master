@@ -1,0 +1,400 @@
+[0.078s] Invoking command in 'D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\build\cpp_pubsub': C:\Program Files\CMake\bin\cmake.EXE D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master -DCMAKE_INSTALL_PREFIX=D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\install\cpp_pubsub
+[0.094s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.19043.
+[0.110s] -- Found ament_cmake: 1.1.4 (E:/Programas/ROS2_packages/ros2-windows/share/ament_cmake/cmake)
+[0.141s] -- Using PYTHON_EXECUTABLE: C:/Python38/python.exe
+[0.266s] -- Found rclcpp: 9.1.0 (E:/Programas/ROS2_packages/ros2-windows/share/rclcpp/cmake)
+[0.313s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.313s] -- Found rosidl_adapter: 2.2.1 (E:/Programas/ROS2_packages/ros2-windows/share/rosidl_adapter/cmake)
+[0.438s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.485s] -- Found rmw_implementation_cmake: 3.3.1 (E:/Programas/ROS2_packages/ros2-windows/share/rmw_implementation_cmake/cmake)
+[0.500s] -- Found rmw_cyclonedds_cpp: 0.22.3 (E:/Programas/ROS2_packages/ros2-windows/share/rmw_cyclonedds_cpp/cmake)
+[0.516s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.594s] -- Found std_msgs: 2.2.3 (E:/Programas/ROS2_packages/ros2-windows/share/std_msgs/cmake)
+[0.766s] -- Configuring done
+[0.907s] CMake Error in CMakeLists.txt:
+[0.907s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.907s] 
+[0.907s]     "C:/ci/ws/install/include"
+[0.907s] 
+[0.907s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.907s] 
+[0.907s]   * The path was deleted, renamed, or moved to another location.
+[0.907s] 
+[0.907s]   * An install or uninstall procedure did not complete successfully.
+[0.907s] 
+[0.907s]   * The installation package was faulty and references files it does not
+[0.907s]   provide.
+[0.907s] 
+[0.907s] 
+[0.907s] 
+[0.907s] CMake Error in CMakeLists.txt:
+[0.907s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.907s] 
+[0.907s]     "C:/ci/ws/install/include"
+[0.907s] 
+[0.907s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.907s] 
+[0.907s]   * The path was deleted, renamed, or moved to another location.
+[0.907s] 
+[0.907s]   * An install or uninstall procedure did not complete successfully.
+[0.907s] 
+[0.907s]   * The installation package was faulty and references files it does not
+[0.907s]   provide.
+[0.907s] 
+[0.907s] 
+[0.907s] 
+[0.907s] CMake Error in CMakeLists.txt:
+[0.907s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.907s] 
+[0.907s]     "C:/ci/ws/install/include"
+[0.907s] 
+[0.907s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.907s] 
+[0.907s]   * The path was deleted, renamed, or moved to another location.
+[0.907s] 
+[0.907s]   * An install or uninstall procedure did not complete successfully.
+[0.907s] 
+[0.907s]   * The installation package was faulty and references files it does not
+[0.907s]   provide.
+[0.907s] 
+[0.907s] 
+[0.907s] 
+[0.907s] CMake Error in CMakeLists.txt:
+[0.907s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.907s] 
+[0.907s]     "C:/ci/ws/install/include"
+[0.907s] 
+[0.907s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.907s] 
+[0.907s]   * The path was deleted, renamed, or moved to another location.
+[0.907s] 
+[0.907s]   * An install or uninstall procedure did not complete successfully.
+[0.907s] 
+[0.907s]   * The installation package was faulty and references files it does not
+[0.907s]   provide.
+[0.907s] 
+[0.907s] 
+[0.907s] 
+[0.907s] CMake Error in CMakeLists.txt:
+[0.907s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.907s] 
+[0.907s]     "C:/ci/ws/install/include"
+[0.907s] 
+[0.907s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.907s] 
+[0.907s]   * The path was deleted, renamed, or moved to another location.
+[0.907s] 
+[0.907s]   * An install or uninstall procedure did not complete successfully.
+[0.907s] 
+[0.907s]   * The installation package was faulty and references files it does not
+[0.907s]   provide.
+[0.907s] 
+[0.907s] 
+[0.907s] 
+[0.907s] CMake Error in CMakeLists.txt:
+[0.907s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.907s] 
+[0.907s]     "C:/ci/ws/install/include"
+[0.907s] 
+[0.907s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.907s] 
+[0.907s]   * The path was deleted, renamed, or moved to another location.
+[0.907s] 
+[0.907s]   * An install or uninstall procedure did not complete successfully.
+[0.907s] 
+[0.907s]   * The installation package was faulty and references files it does not
+[0.907s]   provide.
+[0.907s] 
+[0.907s] 
+[0.907s] 
+[0.907s] CMake Error in CMakeLists.txt:
+[0.907s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.907s] 
+[0.907s]     "C:/ci/ws/install/include"
+[0.907s] 
+[0.907s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.907s] 
+[0.907s]   * The path was deleted, renamed, or moved to another location.
+[0.907s] 
+[0.907s]   * An install or uninstall procedure did not complete successfully.
+[0.907s] 
+[0.907s]   * The installation package was faulty and references files it does not
+[0.907s]   provide.
+[0.907s] 
+[0.907s] 
+[0.907s] 
+[0.907s] CMake Error in CMakeLists.txt:
+[0.907s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.907s] 
+[0.907s]     "C:/ci/ws/install/include"
+[0.907s] 
+[0.907s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.907s] 
+[0.907s]   * The path was deleted, renamed, or moved to another location.
+[0.907s] 
+[0.907s]   * An install or uninstall procedure did not complete successfully.
+[0.907s] 
+[0.907s]   * The installation package was faulty and references files it does not
+[0.907s]   provide.
+[0.907s] 
+[0.907s] 
+[0.907s] 
+[0.922s] CMake Error in CMakeLists.txt:
+[0.922s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.922s] 
+[0.922s]     "C:/ci/ws/install/include"
+[0.922s] 
+[0.922s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.922s] 
+[0.922s]   * The path was deleted, renamed, or moved to another location.
+[0.922s] 
+[0.922s]   * An install or uninstall procedure did not complete successfully.
+[0.922s] 
+[0.922s]   * The installation package was faulty and references files it does not
+[0.922s]   provide.
+[0.922s] 
+[0.922s] 
+[0.922s] 
+[0.922s] CMake Error in CMakeLists.txt:
+[0.922s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.922s] 
+[0.922s]     "C:/ci/ws/install/include"
+[0.922s] 
+[0.922s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.922s] 
+[0.922s]   * The path was deleted, renamed, or moved to another location.
+[0.922s] 
+[0.922s]   * An install or uninstall procedure did not complete successfully.
+[0.922s] 
+[0.922s]   * The installation package was faulty and references files it does not
+[0.922s]   provide.
+[0.922s] 
+[0.922s] 
+[0.922s] 
+[0.922s] CMake Error in CMakeLists.txt:
+[0.922s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.922s] 
+[0.922s]     "C:/ci/ws/install/include"
+[0.922s] 
+[0.922s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.922s] 
+[0.922s]   * The path was deleted, renamed, or moved to another location.
+[0.922s] 
+[0.922s]   * An install or uninstall procedure did not complete successfully.
+[0.922s] 
+[0.922s]   * The installation package was faulty and references files it does not
+[0.922s]   provide.
+[0.922s] 
+[0.922s] 
+[0.922s] 
+[0.922s] CMake Error in CMakeLists.txt:
+[0.922s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.922s] 
+[0.922s]     "C:/ci/ws/install/include"
+[0.922s] 
+[0.922s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.922s] 
+[0.922s]   * The path was deleted, renamed, or moved to another location.
+[0.922s] 
+[0.922s]   * An install or uninstall procedure did not complete successfully.
+[0.922s] 
+[0.922s]   * The installation package was faulty and references files it does not
+[0.922s]   provide.
+[0.922s] 
+[0.922s] 
+[0.922s] 
+[0.938s] CMake Error in CMakeLists.txt:
+[0.938s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.938s] 
+[0.938s]     "C:/ci/ws/install/include"
+[0.938s] 
+[0.938s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.938s] 
+[0.938s]   * The path was deleted, renamed, or moved to another location.
+[0.938s] 
+[0.938s]   * An install or uninstall procedure did not complete successfully.
+[0.938s] 
+[0.938s]   * The installation package was faulty and references files it does not
+[0.938s]   provide.
+[0.938s] 
+[0.938s] 
+[0.938s] 
+[0.938s] CMake Error in CMakeLists.txt:
+[0.938s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.938s] 
+[0.938s]     "C:/ci/ws/install/include"
+[0.938s] 
+[0.938s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.938s] 
+[0.938s]   * The path was deleted, renamed, or moved to another location.
+[0.938s] 
+[0.938s]   * An install or uninstall procedure did not complete successfully.
+[0.938s] 
+[0.938s]   * The installation package was faulty and references files it does not
+[0.938s]   provide.
+[0.938s] 
+[0.938s] 
+[0.938s] 
+[0.938s] CMake Error in CMakeLists.txt:
+[0.938s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.938s] 
+[0.938s]     "C:/ci/ws/install/include"
+[0.938s] 
+[0.938s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.938s] 
+[0.938s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[0.953s] CMake Error in CMakeLists.txt:
+[0.953s]   Imported target "rclcpp::rclcpp" includes non-existent path
+[0.953s] 
+[0.953s]     "C:/ci/ws/install/include"
+[0.953s] 
+[0.953s]   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+[0.953s] 
+[0.953s]   * The path was deleted, renamed, or moved to another location.
+[0.953s] 
+[0.953s]   * An install or uninstall procedure did not complete successfully.
+[0.953s] 
+[0.953s]   * The installation package was faulty and references files it does not
+[0.953s]   provide.
+[0.953s] 
+[0.953s] 
+[0.953s] 
+[1.047s] -- Generating done
+[1.063s] CMake Generate step failed.  Build files cannot be regenerated correctly.
+[1.063s] Invoked command in 'D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\build\cpp_pubsub' returned '1': C:\Program Files\CMake\bin\cmake.EXE D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master -DCMAKE_INSTALL_PREFIX=D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\install\cpp_pubsub

@@ -1,0 +1,34 @@
+[0.047s] Invoking command in 'D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\build\cpp_pubsub': C:\Program Files\CMake\bin\cmake.EXE D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master -DCMAKE_INSTALL_PREFIX=D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\install\cpp_pubsub -G Visual Studio 16 2019
+[0.391s] -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.19043.
+[2.703s] -- The C compiler identification is MSVC 19.29.30139.0
+[3.594s] -- The CXX compiler identification is MSVC 19.29.30139.0
+[3.719s] -- Detecting C compiler ABI info
+[4.484s] -- Detecting C compiler ABI info - done
+[4.484s] -- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[4.484s] -- Detecting C compile features
+[4.484s] -- Detecting C compile features - done
+[4.516s] -- Detecting CXX compiler ABI info
+[5.250s] -- Detecting CXX compiler ABI info - done
+[5.266s] -- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[5.266s] -- Detecting CXX compile features
+[5.266s] -- Detecting CXX compile features - done
+[5.422s] CMake Error at CMakeLists.txt:13 (find_package):
+[5.422s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[5.422s]   has asked CMake to find a package configuration file provided by
+[5.422s]   "ament_cmake", but CMake did not find one.
+[5.422s] 
+[5.422s]   Could not find a package configuration file provided by "ament_cmake" with
+[5.422s]   any of the following names:
+[5.422s] 
+[5.422s]     ament_cmakeConfig.cmake
+[5.422s]     ament_cmake-config.cmake
+[5.422s] 
+[5.422s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[5.422s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[5.422s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[5.422s]   has been installed.
+[5.422s] 
+[5.422s] 
+[5.422s] -- Configuring incomplete, errors occurred!
+[5.422s] See also "D:/Escritorio/myspore/Programacion/ROS_2_ANDROID-master/build/cpp_pubsub/CMakeFiles/CMakeOutput.log".
+[5.422s] Invoked command in 'D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\build\cpp_pubsub' returned '1': C:\Program Files\CMake\bin\cmake.EXE D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master -DCMAKE_INSTALL_PREFIX=D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\install\cpp_pubsub -G Visual Studio 16 2019

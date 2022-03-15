@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\build\cpp_pubsub\CMakeFiles\2180e98239d3f911e1458c3d75facedc\cpp_pubsub_uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Escritorio\myspore\Programacion\ROS_2_ANDROID-master\build\cpp_pubsub\CMakeFiles\cpp_pubsub_uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F8964531-1576-3D24-8239-E86194ABF859}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name='myplaces'
+include ':myapp'
+include ':myapp23'
